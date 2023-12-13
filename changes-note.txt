@@ -1,0 +1,3 @@
+Changes in pages.
+
+1- Primary colors, images and texts in tailwind.config. 
