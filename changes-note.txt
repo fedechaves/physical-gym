@@ -1,3 +1,4 @@
 Changes in pages.
 
 1- Primary colors, images and texts in tailwind.config. 
+2- navbar with context provider? maybe zustand?
