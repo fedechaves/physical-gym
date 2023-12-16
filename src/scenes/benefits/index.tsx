@@ -131,12 +131,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+                We believe in our methods to give you a secure road to your goals.
               </p>
               <p className="mb-5">
                 Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
